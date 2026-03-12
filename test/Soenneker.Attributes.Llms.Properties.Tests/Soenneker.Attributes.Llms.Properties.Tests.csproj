@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Attributes.Llms.Properties.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Attributes.Llms.Properties\Soenneker.Attributes.Llms.Properties.csproj" />
     </ItemGroup>
 
     <ItemGroup>

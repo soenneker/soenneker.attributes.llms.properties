@@ -1,11 +1,10 @@
-﻿using Soenneker.Tests.Unit;
-using Xunit;
+using Soenneker.Tests.Unit;
 
 namespace Soenneker.Attributes.Llms.Properties.Tests;
 
 public sealed class LlmPropertyAttributeTests : UnitTest
 {
-    [Fact]
+    [Test]
     public void Default()
     {
 

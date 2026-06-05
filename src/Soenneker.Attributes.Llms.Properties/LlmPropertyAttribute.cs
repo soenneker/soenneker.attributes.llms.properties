@@ -8,6 +8,9 @@ namespace Soenneker.Attributes.Llms.Properties;
 [AttributeUsage(AttributeTargets.Property)]
 public sealed class LlmPropertyAttribute : Attribute
 {
+    /// <summary>
+    /// Gets description.
+    /// </summary>
     public string Description { get; }
 
     public LlmPropertyAttribute(string description)

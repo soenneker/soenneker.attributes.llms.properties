@@ -1,6 +1,7 @@
 [![](https://img.shields.io/nuget/v/soenneker.attributes.llms.properties.svg?style=for-the-badge)](https://www.nuget.org/packages/soenneker.attributes.llms.properties/)
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.attributes.llms.properties/publish-package.yml?style=for-the-badge)](https://github.com/soenneker/soenneker.attributes.llms.properties/actions/workflows/publish-package.yml)
 [![](https://img.shields.io/nuget/dt/soenneker.attributes.llms.properties.svg?style=for-the-badge)](https://www.nuget.org/packages/soenneker.attributes.llms.properties/)
+[![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.attributes.llms.properties/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/soenneker.attributes.llms.properties/actions/workflows/codeql.yml)
 
 # Soenneker.Attributes.Llms.Properties
 
